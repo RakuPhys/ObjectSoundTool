@@ -1,6 +1,5 @@
 # ObjectSoundTool
-Tools for object sound in VRChat &amp; Reaper
-こちらの記事に対応した、オブジェクト音にアンビソニックスに基づく反響音を付加するために用いるスクリプト等をまとめています。
+[こちらの記事](https://raku-phys.hatenablog.com/entry/object_with_ambi)に対応した、オブジェクト音にアンビソニックスに基づく反響音を付加するために用いるスクリプト等をまとめています。
 
 ## Position Recorderの使い方
 - PositionRecorder.prefabをシーンの受聴位置に設置します
