@@ -32,6 +32,7 @@ SetEnveloopeFromCSVを実行する前提条件として、オブジェクトご�
 
 ### CSVファイルフォルダの想定構成
 CSVファイルの格納ディレクトリは下記のフォルダ構成である必要があります。
+````
 CSVFiles
 ├── SourcePos
 │   ├── [#1 ObjectName].csv
@@ -42,7 +43,7 @@ CSVFiles
 │   ├── [#2 ObjectName]_Score.csv
 │   └── ...
 └── SourceInfo.csv
-
+````
 #### SourceInfo.csvの仕様
 ````objectName,trackType,envName,envFunc,loadScore,useScore````
 
