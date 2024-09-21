@@ -24,7 +24,7 @@ SetEnvelopeFromCSVにインポートする形で使われるUtilsです。CSVで
 SetEnveloopeFromCSVを実行する前提条件として、オブジェクトごとのルーティング・FX設定のテンプレートとなるトラックを作っておく必要があります。
 テンプレートトラックは次のような構成です。なお、各サブトラックの[Template]の部分は、SetEnvelopeFromCSVによって各オブジェクト毎にコピーされる際にはオブジェクト名に置き換わります。
 
-<iframe src="https://drive.google.com/file/d/1ZmT9bLW0zDTvfKrfUf79wntOoiD_Bk3p/preview" width="640" height="480" allow="autoplay"></iframe>
+![TemplateTrack](https://github.com/user-attachments/assets/87675e19-849a-4c8e-92ff-7f9204a2eac6)
 
 - Source_Template: このトラックに配置されたAudioClipがCinematic RoomやHaloUpmixを通じてサラウンド化します
 - Center_Template: SourceTemplateでサラウンド化された音のうちCenterチャンネルをここに送ります
